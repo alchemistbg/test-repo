@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-repo/static/css/main.b99c448d.chunk.css",
-    "main.js": "/test-repo/static/js/main.f80f0e50.chunk.js",
-    "main.js.map": "/test-repo/static/js/main.f80f0e50.chunk.js.map",
+    "main.js": "/test-repo/static/js/main.2525757f.chunk.js",
+    "main.js.map": "/test-repo/static/js/main.2525757f.chunk.js.map",
     "runtime-main.js": "/test-repo/static/js/runtime-main.e7031bb9.js",
     "runtime-main.js.map": "/test-repo/static/js/runtime-main.e7031bb9.js.map",
     "static/css/2.0b45a2dc.chunk.css": "/test-repo/static/css/2.0b45a2dc.chunk.css",
     "static/js/2.5f93c706.chunk.js": "/test-repo/static/js/2.5f93c706.chunk.js",
     "static/js/2.5f93c706.chunk.js.map": "/test-repo/static/js/2.5f93c706.chunk.js.map",
     "index.html": "/test-repo/index.html",
-    "precache-manifest.df62c44b983dce133d431c1c0d8c80fd.js": "/test-repo/precache-manifest.df62c44b983dce133d431c1c0d8c80fd.js",
+    "precache-manifest.c6cc1ba68432a5b59cb26a8e212872c2.js": "/test-repo/precache-manifest.c6cc1ba68432a5b59cb26a8e212872c2.js",
     "service-worker.js": "/test-repo/service-worker.js",
     "static/css/2.0b45a2dc.chunk.css.map": "/test-repo/static/css/2.0b45a2dc.chunk.css.map",
     "static/css/main.b99c448d.chunk.css.map": "/test-repo/static/css/main.b99c448d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0b45a2dc.chunk.css",
     "static/js/2.5f93c706.chunk.js",
     "static/css/main.b99c448d.chunk.css",
-    "static/js/main.f80f0e50.chunk.js"
+    "static/js/main.2525757f.chunk.js"
   ]
 }
